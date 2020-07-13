@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Get your API_KEY from [zomato](https://developers.zomato.com/documentation#/)  website.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
